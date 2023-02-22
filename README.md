@@ -1,7 +1,7 @@
 
 ### Hi, visitor! My name is Leonardo Silva. ✌️
 
-I've always been passionate about technology and art, so I've dedicated my life to studying design (and other things like 3d and a little bit of cinema) because I think it's the best of both worlds. And now I'm officially a Designer looking to unravel the awesome Front-end universe. 🌠
+I've always been passionate about technology and art, so I've dedicated my life to studying design (and other things like 3d and a little bit of cinema) because i think it's the best of both worlds. And now I'm officially a Designer looking to unravel the awesome Front-end universe. 🌠
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-ds-silva)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/slimsleo)
 
